@@ -1,4 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Who?
 
 @article{ping,
@@ -9,6 +10,7 @@ Who?
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 What?
 
 **** Processed, ready to use data ****
@@ -42,6 +44,7 @@ What?
                     the time of their onset (can be used to match with the above timestamps), and the time in which the announcement was completed ('timeend').
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 How?
 
 **** Training/testing split ****
